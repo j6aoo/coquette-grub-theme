@@ -1,0 +1,1 @@
+# coquette-grub-theme
