@@ -1,0 +1,15 @@
+title-text: "select a system ♡"
+title-font: "MontserratRounded.pf2"
+desktop-image: "background.png"
+desktop-color: "#000000"
+desktop-opacity: 0
+
++ boot_menu {
+  item_font: "MontserratRounded.pf2"
+  item_color: "#ffffff"
+  selected_item_color: "#f4aebe"
+  item_height: 50
+  item_padding: 10
+  item_spacing: 15
+  item_icon: "icons/arrow.png"
+}
